@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Jawad
 
-<!--
-**jawadahmad-sec/jawadahmad-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student from Pakistan, trying to break into cybersecurity. I learn by doing—small Python scripts, free courses, and whatever lab I can get my hands on.
 
-Here are some ideas to get you started:
+## What I'm actually doing right now
+- Cisco Ethical Hacker course (free, 70h, 34 labs)
+- Writing Python scripts for log analysis (IP extractor, error counter)
+- Documenting everything I learn in public
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stuff I've finished
+- Cisco Intro to Cybersecurity
+- Cisco Networking Basics
+- Linux Unhatched
+
+## Why this GitHub exists
+To show my work, not just talk about it. No paid certs, no bootcamps—just commits and lab notes.
+
+---
+
+*“Don't wait to feel ready.” – UnixGuy*
