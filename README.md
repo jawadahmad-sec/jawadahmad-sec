@@ -8,6 +8,7 @@ CS student from Pakistan, trying to break into cybersecurity. I learn by doingâ€
 - Documenting everything I learn in public
 
 ## Stuff I've finished
+- Google Cybersecurity Professional Certificate
 - Cisco Intro to Cybersecurity
 - Cisco Networking Basics
 - Linux Unhatched
