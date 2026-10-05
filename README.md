@@ -6,7 +6,7 @@ CS student from KPK, Pakistan. Trying to break into cybersecurity — learning b
 
 ## 🎯 What I'm Working On
 
-**[Open-Source Mini SOC](https://github.com/jawadahmad-sec/open-source-mini-soc-fyp)** — my Final Year Project
+**[Open-Source Mini SOC](https://jawadahmad-sec.github.io/jawad-ahmad-portfolio/)** — my Final Year Project
 
 A fully open-source Security Operations Center that detects, correlates, and prioritizes network threats. Built with Suricata, Wazuh, Filebeat, and a custom Python correlation engine.
 
