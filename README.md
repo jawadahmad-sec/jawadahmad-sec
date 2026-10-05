@@ -31,7 +31,7 @@ Currently: 3 monitored endpoints, 1,200+ alerts collected, 10 MITRE ATT&CK techn
 
 ---
 
-## 🧰 Tools I've Worked With
+## 🧰 Tools I Am Learning Now 
 
 **Security:** Suricata · Wazuh · Nmap · Metasploit · Hydra · MITRE ATT&CK
 **Systems:** Kali Linux · Ubuntu Server · Windows · VirtualBox
